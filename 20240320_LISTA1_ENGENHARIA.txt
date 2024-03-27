@@ -1,0 +1,47 @@
+1-
+Hardware: CPU, Disco rígido e Teclado.
+Software:Instagram e Programa Word.
+
+2- É um ou mais programa com instruções de código que dita a forma como uma máquina deve agir.
+
+3- Pode ser dito como um conjunto de regras que podem ser utilizadas para entregar a solução de um problemas.
+
+4- Exemplos de softwares
+
+ .Medicina:Centricity Perioperative Anesthesia (TI para anestesia)
+ .Ciência :SPSS (Aplicações analíticas, mineração de dados, mineração de texto e ferramentas estatística que transformam os dados em informações importantes)
+ .Entretenimento : Instagram (Fornece entretenimento em conjunto para seus usuários)
+
+5- Softwares como Google Maps facilitam bastante a minha vida, sempre utilizo para encontrar locais que não conheço o trajeto.
+ Um vírus ou Malware atrapalham bastante a minha vida pois me impede de trabalhar.
+
+6- Acordo com o auxílio de um despertador, que funciona após algumas programações e softwares em meu smartphone.
+
+7-A gestão de milhares de pessoas em trabalhos governamentais, bem como o atendimento de beneficiários da previdência.
+
+8- utilizo o Google Chrome, WinRAR e Microsoft Office utilizo com frequência.
+
+9- Serviço de catação de lixo, Corrida amadora, serviço de limpeza manual de carro, serviço de massagem, serviço de engraxate, cozinha caseira, professor de boxe, serviço de conversação presencial de psicólogo, quiropráxia e jogador de ping pong amador. 
+
+10-Creio que não, pois até onde vai meu conhecimento na computação, por mais que a máquina já possa criar alguns conhecimentos ainda que haja uma melhora na inteligência artificial, creio que ainda vai ser valioso a criatividade e sensibilidade humana.
+
+11- Lg All in one
+Processamento: Intel Celeron N4100 
+Memória: 4GB de memória RAM
+Armazenamento: 500gb
+
+12- 1- Pesquise no youtube um bom tutorial, 2-Comece por etapas e siga para a próxima assim que concluir a primeira.
+
+13- Bit é uma unidade mínima de medida de transmissão, possuindo valor binário, 1 e 0 ou verdadeiro e falso; já o byte é a composição de 8 bits, sendo assim a unidade minima de informação codificada.
+
+14- Através dos bytes, que são um conjunto de bits, é possível que a máquina utilizada reconheça um conjunto de informações dos bits e e converte em qualquer número desejado.
+
+15- Poderiamos atribuir os valores {128,64,32,16,8,4,2,1}; e atribuir uma soma sempre que o bit fosse igual a 1; neste caso por exemplo teriamos a sequencia 10010110 o que quer dizer 128+16+4+2=150.
+
+16- Scrum master: Deve conduzir todo o time de modo a concluir o projeto conforme planejado, 
+Dono do produto: Deve definir o escopo do projeto
+Time de desenvolvimento: Entregar os serviços e/ou produtos conforme solicitado e dentro do prazo solicitado. 
+
+17- para windows basta utilizar os comandos copiar= cp; mover=move e remover=del.
+
+18- IEE802.11n para Wi-fi ; IEE802.15.1 Bluetooth faz conexão através da camada de rede (camada 2)
